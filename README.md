@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+You can see live website at: https://react-admin-atn.netlify.app/
+Account access: user ("tuan123"), password("12345")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
