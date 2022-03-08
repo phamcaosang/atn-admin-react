@@ -1,0 +1,29 @@
+.Order {
+  flex: 4;
+  padding: 20px;
+  font-size: 18px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.status {
+  font-weight: bold;
+  color: coral;
+}
+
+.group {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 10px 80px;
+  padding: 10px;
+}
+
+ul {
+  margin-top: 15px;
+}
+
+ul > li > span {
+  padding-right: 10px;
+}
